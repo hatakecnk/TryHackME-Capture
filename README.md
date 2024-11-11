@@ -4,6 +4,7 @@ https://tryhackme.com/r/room/capture
 ## Usage
 ```
 *connect ur opvpn to tryhackme first!!
+*edit url target*
 python brute_froce.py
 ```
 ## Configuration 
