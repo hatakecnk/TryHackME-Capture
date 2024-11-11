@@ -10,7 +10,7 @@ python brute_froce.py
 ```
 https://tryhackme.com/r/access
 ```
-[![Configuration]]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/996h-TwbUFc))
+[![Tonton videonya](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://youtu.be/996h-TwbUFc)
 
 Author
 Febry Afriansyah
