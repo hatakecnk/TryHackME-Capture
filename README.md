@@ -10,7 +10,7 @@ python brute_froce.py
 ```
 https://tryhackme.com/r/access
 ```
-[![Configuration OVPN]](https://youtu.be/996h-TwbUFc)
+[![Configuration OVPN]](https://raw.githubusercontent.com/hatakecnk/assets/refs/heads/main/996h-TwbUFchd.jpg)(https://youtu.be/996h-TwbUFc)
 
 Author
 Febry Afriansyah
